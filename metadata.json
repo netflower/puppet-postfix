@@ -1,0 +1,21 @@
+{
+  "name": "netflower-postfix",
+  "version": "0.0.1",
+  "author": "netflower",
+  "summary": "Install and configure Postfix aliases",
+  "license": "MIT",
+  "source": "https://github.com/netflower/puppet-postfix",
+  "project_page": "https://github.com/netflower/puppet-postfix",
+  "issues_url": "https://github.com/netflower/puppet-postfix/issues",
+  "dependencies": [],
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"Debian",
+    "operatingsystemrelease":[ "6.0" ]
+    },
+    {
+    "operatingsystem": "Ubuntu",
+    "operatingsystemrelease": [ "12.04", "14.04" ]
+    }
+   ]
+}
